@@ -35,3 +35,8 @@
 - [【总结】2021- 作为前端，工作中处理过什么复杂的需求？](https://mp.weixin.qq.com/s/XShu__cc1QrMYCKHPqJFnw)
 - [【Vuejs】2023- Vue3 项目前端 CI/CD 体验](https://mp.weixin.qq.com/s/FD3OyFl7jq3klL6AWpiMjA)
 - [单元测试不做行不行？](https://mp.weixin.qq.com/s/2-zM7Z6Aj269VncZlG6bGw)
+- [如何借助 Hadolint 编写高质量的 Dockerfile](https://mp.weixin.qq.com/s/s-qvSygLUNJLpwzUdTEwxQ)
+- [常见 Java 代码缺陷及规避方式](https://mp.weixin.qq.com/s/IpWtjwcCY7S3irBz34Pw6Q)
+- [这些年背过的面试题——LeetCode](https://mp.weixin.qq.com/s/jqoOfM_apICqNidYcNin4A)
+- [这些年背过的面试题——网络和操作系统基础篇](https://mp.weixin.qq.com/s/PggcbQzRYMG7Vx038ays9w)
+- [十年前的微信消息收发架构居然是这样子的](https://mp.weixin.qq.com/s/ElgyN7T4c3VMjF5kAl4P0A)
