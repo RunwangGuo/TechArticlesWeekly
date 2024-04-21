@@ -23,5 +23,15 @@
 
 - [浅析根因告警的系统分析法](https://mp.weixin.qq.com/s/qpAErfyNtwfwTjU1LXq3tg)
 
-  
+## **April 2024, Week 3**
 
+- [阿里云节点排水](https://help.aliyun.com/zh/ack/ack-managed-and-ack-dedicated/user-guide/set-node-schedulability?spm=5176.2020520104.0.0.2d35709aBzLdwX)
+- [C# DlibDotNet 人脸识别、人脸68特征点识别、人脸5特征点识别、人脸对齐，三角剖分，人脸特征比对](https://mp.weixin.qq.com/s/658ii4_DhlceDUTyMqV6TQ)
+- [本地部署Llama3-8B/70B 并进行逻辑推理测试](https://mp.weixin.qq.com/s/ehnybaYNwFSyZDbG6mgOdw)
+- [面试官：为什么忘记密码要重置而不是告诉你原密码？](https://mp.weixin.qq.com/s/SH5WdrDy1HhtRsIcu4tADg)
+- [ElementUI可视化设计工具：一键生成与拖拽自动布局的前端新体验](https://mp.weixin.qq.com/s/PHSudxbYsJMoBpkYugNVgg)
+- [全网最全的 JavaScript 运行时大盘点](https://mp.weixin.qq.com/s/RgUsS4F5wZOWsxAsHDt8JQ)
+- [【总结】2019- 如何自己开发一个前端监控SDK](https://mp.weixin.qq.com/s/PnJMY8Slyq6Ofq2-4VSCIA)
+- [【总结】2021- 作为前端，工作中处理过什么复杂的需求？](https://mp.weixin.qq.com/s/XShu__cc1QrMYCKHPqJFnw)
+- [【Vuejs】2023- Vue3 项目前端 CI/CD 体验](https://mp.weixin.qq.com/s/FD3OyFl7jq3klL6AWpiMjA)
+- [单元测试不做行不行？](https://mp.weixin.qq.com/s/2-zM7Z6Aj269VncZlG6bGw)
