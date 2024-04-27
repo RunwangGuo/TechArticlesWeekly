@@ -41,7 +41,7 @@
 - [这些年背过的面试题——网络和操作系统基础篇](https://mp.weixin.qq.com/s/PggcbQzRYMG7Vx038ays9w)
 - [十年前的微信消息收发架构居然是这样子的](https://mp.weixin.qq.com/s/ElgyN7T4c3VMjF5kAl4P0A)
 
-## **April 2024, Week 4
+## April 2024, Week 4
 
 - [MySQL报错解决：MySQL server has gone away](https://cloud.tencent.com/developer/article/1772435)
 - [Java程序以后台方式在Linux上运行(nohup命令)](https://www.cnblogs.com/WayneZeng/archive/2011/10/20/Bob.html)
