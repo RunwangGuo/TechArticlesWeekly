@@ -40,3 +40,16 @@
 - [这些年背过的面试题——LeetCode](https://mp.weixin.qq.com/s/jqoOfM_apICqNidYcNin4A)
 - [这些年背过的面试题——网络和操作系统基础篇](https://mp.weixin.qq.com/s/PggcbQzRYMG7Vx038ays9w)
 - [十年前的微信消息收发架构居然是这样子的](https://mp.weixin.qq.com/s/ElgyN7T4c3VMjF5kAl4P0A)
+
+## **April 2024, Week 4
+
+- [MySQL报错解决：MySQL server has gone away](https://cloud.tencent.com/developer/article/1772435)
+- [Java程序以后台方式在Linux上运行(nohup命令)](https://www.cnblogs.com/WayneZeng/archive/2011/10/20/Bob.html)
+- [系统负载Load的理解和分析](https://www.jianshu.com/p/735210d3e2dc)
+- [大白话说明白K8S的PV / PVC / StorageClass(理论+实践)](https://zhuanlan.zhihu.com/p/655923057)
+- [使用nps搭建内网穿透并配置泛域名解析](https://www.cnblogs.com/qiaoyurensheng/articles/nps.html)
+- [mysql pxc集群 原理 （图解+秒懂+史上最全）](https://www.cnblogs.com/crazymakercircle/p/15344207.html)
+- [前端路由刷新404问题](https://juejin.cn/post/7095984131892314120)
+- [TortoiseGit提示No supported authentication methods available错误](https://blog.csdn.net/Jeffxu_lib/article/details/112259246)
+- [Nacos 整合 Mysql :No DataSource set解决方案](https://zhuanlan.zhihu.com/p/335362918)
+- [curl获取本机公网IP（命令行备忘）](https://blog.csdn.net/davidullua/article/details/115945111)
