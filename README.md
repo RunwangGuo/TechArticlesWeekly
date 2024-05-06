@@ -53,3 +53,28 @@
 - [TortoiseGit提示No supported authentication methods available错误](https://blog.csdn.net/Jeffxu_lib/article/details/112259246)
 - [Nacos 整合 Mysql :No DataSource set解决方案](https://zhuanlan.zhihu.com/p/335362918)
 - [curl获取本机公网IP（命令行备忘）](https://blog.csdn.net/davidullua/article/details/115945111)
+
+## May 2024, Week 1
+
+- [web端屏幕截屏，生成自定义海报！](https://mp.weixin.qq.com/s/HLO5GnhLjbQxzScQxOj-XA)
+
+- [【动画进阶】类 ChatGpt 多行文本打字效果](https://mp.weixin.qq.com/s/MljFhTIbya6nzxMBCazwhQ)
+
+- [聊天框 - 微信加载历史数据的效果原来这样实现的](https://mp.weixin.qq.com/s/e8LSgEC0ysFG713GOVXb2A)
+
+- [仿拼多多现金大转盘，H5 抽奖转盘如何实现？](https://mp.weixin.qq.com/s/oCHSX_Wnc4AcXcxz8Prw3g)
+
+- [“打工人”的自我修养 - 如何在 30 秒内把“问题”讲清楚](https://mp.weixin.qq.com/s/XYiasfWaJ6rHNSch-ANBbA)
+
+- [这些年背过的面试题——Java基础及面试题篇](https://mp.weixin.qq.com/s/UbKYBb9fuYouevfBSlBJ0g)
+
+- [这些年背过的面试题——实战算法篇](https://mp.weixin.qq.com/s/IEzcsHn6SaoS96F1gTKcJQ)
+
+- [LLM 安全 | 大语言模型应用安全入门](https://mp.weixin.qq.com/s/B6J-RXTFJBnYPHCijSym9Q)
+
+- [为什么分布式系统会失败？](https://mp.weixin.qq.com/s/kC0B2xPdXpBqDu5aY11OQA)
+
+- [js如何实现当文本内容过长时，中间显示省略号...,两端正常展示](https://mp.weixin.qq.com/s/SpRxyWlH88tRiyZ6aBiJTg)
+
+  
+
