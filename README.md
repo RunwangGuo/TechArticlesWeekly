@@ -26,6 +26,13 @@
 - Kubernetes 资源预留配置  https://mp.weixin.qq.com/s/tirMYoC_o9ahRjiErc99AQ
 - 获取客户端访问真实IP  https://mp.weixin.qq.com/s/Jy5Y-b5rVJwec6V0u_jjvw
 - JVM 性能调优之通过 JProfile 和 JFR 分析系统瓶颈提升系统性能  https://mp.weixin.qq.com/s/nkvvT-DS75Q-rsLo1WU3Jg
+- SQL自动化？？？  https://mp.weixin.qq.com/s/j0wD7HKKDqNyQvAxgFKd2g
+- 细说Kubernetes Pod的驱逐  https://mp.weixin.qq.com/s/LANpino7HX2dYH0HXZFeSg
+- 开发一个禁止删除namespace的控制器  https://mp.weixin.qq.com/s/GdxSWFEyM1PYP30f3a-FCQ
+- 容器中的一号进程  https://mp.weixin.qq.com/s/r8uoJgxHOce7RyzO3Hzf2w
+- k8s的 Nginx Ingress 调优  https://mp.weixin.qq.com/s/H7nfSEswggu92myHiRqWHg
+- GitLab Runner介绍及安装  https://mp.weixin.qq.com/s/gTBhE0yChdqIaMwZHVso5w
+- iptables学习笔记  https://mp.weixin.qq.com/s/cyVjzWCcHacrdGwBSjNGKQ
 - 
 
 ## May 2024, Week 1
